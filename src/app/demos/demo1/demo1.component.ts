@@ -23,5 +23,4 @@ export class Demo1Component {
     return this._lastName; 
   }
   
-  
 }
